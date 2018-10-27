@@ -112,7 +112,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Namandeep Singh | III | CSE | |
 | Harshit Bansal | II | CSE | |
 | Manpreet | I | IT | |
-| [Kaustubh Khandelwal]((https://github.com/kaustubh2705) | III | CSE | [@kaustubh2705](https://hacktoberfest.digitalocean.com/stats/kaustubh2705)| | 
+| [Kaustubh Khandelwal](https://github.com/kaustubh2705) | III | CSE | [@kaustubh2705](https://hacktoberfest.digitalocean.com/stats/kaustubh2705)|
 | [Akshat Mathur](https://github.com/Akshat111999) | II | CSE | [@Akshat111999](https://hacktoberfest.digitalocean.com/stats/Akshat111999)|
 | Nishant Choudhary | II | CSE | https://hacktoberfest.digitalocean.com/stats/Nishant-Choudhary98 |
 | [Kavita](https://github.com/Kavita309)| III | CSE | [@Kavita309](https://hacktoberfest.digitalocean.com/stats/Kavita309) |
